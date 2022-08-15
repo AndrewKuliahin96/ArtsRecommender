@@ -1,0 +1,14 @@
+abstract,
+animal-painting,
+cityscape,
+figurative,
+flower-painting
+genre-painting,
+landscape,
+marina,
+mythological-painting,
+nude-painting-nu,
+portrait,
+religious-painting,
+still-life,
+symbolic-painting
